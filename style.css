@@ -1,6 +1,9 @@
 *{
     font-family:"Raleway-Bold";
 }
+body{
+    background: blueviolet;
+}
 @font-face {
     font-family: "Raleway-Bold" ;
     src: url(./Raleway-Bold.ttf);
@@ -10,5 +13,11 @@
     text-decoration: none;
 }
 .LinkTel:hover{
-    color: rgb(255, 0, 0);
+    color: rgb(27, 0, 63);
+}
+h1{
+    color: rgb(0, 0, 77);
+}
+hr{
+    border: 2px solid rgb(57, 0, 104);
 }
